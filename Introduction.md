@@ -3,7 +3,7 @@
 - Name: Aaliyah Nicole O. Javier
 - Student number: 20221132101
 - Subject & Section: NEC 3202 - 3ECE-2A
-- Professor: Engr. Carlo Palanca Jr., ECT  
+- Professor: Engr. Carlo E. Palanca Jr., ECT  
 ---
 # Experiment 1: Full Demodulation of a QPSK Signal
 
