@@ -3,7 +3,7 @@
 ## Procedure Summary
 The Serial-to-Parallel converter was used to split a serial input data stream into two parallel outputs (X1 and X2). The Parallel-to-Serial converter was then used to recombine these signals back into a single serial stream. Oscilloscope observations were used to verify correctness.
 
-## Digital Signal Modelling and Data Conversion
+## Block Diagram
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64f86cd1-7678-4fbd-b92a-686f86ba707f" width="700"/>
 </p>
