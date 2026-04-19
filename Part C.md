@@ -1,4 +1,4 @@
-# Part C: Modelling the Channel Conditions
+# Part C: Modelling the channel conditions
 
 ## Procedure Summary
 The generated QPSK signal was passed through a channel model that introduced noise and phase variations using the noise generator and phase shifter modules.
