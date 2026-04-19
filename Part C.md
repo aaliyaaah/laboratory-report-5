@@ -1,4 +1,4 @@
-# Part C: Modelling the channel conditions
+# Part C: Modelling the Channel Conditions
 
 ## Procedure Summary
 The generated QPSK signal was passed through a channel model that introduced noise and phase variations using the noise generator and phase shifter modules.
@@ -7,9 +7,8 @@ The generated QPSK signal was passed through a channel model that introduced noi
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e5caed1-d43a-40d3-9501-78d8ac1c70f6" width="700"/>
 </p>
-
 <p align="center">
-  <em><strong>Figure 3.1.</strong> Channel modeling block diagram</em>
+  <em><strong>Figure 3.1.</strong> Channel modelling block diagram</em>
 </p>
 
 ## Documentations
@@ -34,8 +33,22 @@ The generated QPSK signal was passed through a channel model that introduced noi
   <em><strong>Figure 3.4.</strong></em>
 </p>
 
+## Questions
+
+### Question 1  
+What is the effect of introducing noise into the QPSK signal?  
+
+**Answer:**  
+Introducing noise distorts the signal and affects its amplitude and phase, making accurate recovery of the original data more difficult.
+
+### Question 2  
+What is the effect of phase variation on the received signal?  
+
+**Answer:**  
+Phase variation causes misalignment between the received signal and the local carrier, leading to improper demodulation and increased errors in the recovered data.
+
 ## Observation
-The signal exhibited distortion due to noise and phase shifts. The inability to properly adjust the phase resulted in imperfect signal alignment.
+The signal showed noticeable distortion due to added noise and phase variation. Improper phase adjustment resulted in imperfect alignment during signal recovery.
 
 ## Conclusion
-Channel impairments such as noise and phase distortion significantly affect signal quality. Proper phase synchronization is essential for accurate signal recovery.
+Noise and phase distortion significantly degrade signal quality. Accurate phase synchronization is essential to ensure reliable demodulation and data recovery.
