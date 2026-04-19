@@ -17,5 +17,5 @@ The Phase Adjust module of the Emona Telecoms Trainer used in this experiment wa
 - Part A: Verifying the operation of parallel-to-serial then serial-to-parallel conversion 
 - Part B: Generating a QPSK signal 
 - Part C: Modelling the channel conditions
-- Part D: Full demodulatin of a QPSK signal 
+- Part D: Full demodulation of a QPSK signal 
 - Part E: Observation of channel noise on the recovered digital data 
